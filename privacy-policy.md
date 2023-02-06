@@ -55,7 +55,7 @@ Requesting manual Data removal will result in Removal of the Bot from the server
 
 The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country.
 No information from an underage user will be knowingly stored.
-If it is found out that a user is underage, we will take all necessary action to delete the stored data.
+If we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Bot as quickly as is reasonably practical.
 
 ## Contact
 
