@@ -8,7 +8,7 @@ Use of the Bot is considered an agreement to the terms of this Policy as well as
 The Bot may use stored Data, as defined below, for different features including but not limited to:
 - Command handling
 
-No usage of Data outside of the aformentioned cases will happen.
+No usage of Data outside of the aforementioned cases will happen.
 Data is and will not be shared or sold with any Third-Party website or service.
 
 ## Storage of Data
