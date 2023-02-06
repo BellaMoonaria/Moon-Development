@@ -11,12 +11,12 @@ The Bot may use stored data, as defined below, for different features including 
 
 ### Necessary Data
 
-The following Data is needed for different features, including but not limited to Command execution. The Data is not stored.
+The following Data is not stored but needed for different features, including but not limited to Command execution.
 - Server ID
 - Channel ID and ratelimit of requested channel
 
 No usage of data outside of the aformentioned cases will happen.
-Data is and will not be shared or sold with any Third-Party websites or service.
+Data is and will not be shared or sold with any Third-Party website or service.
 
 ## Storage of Data
 
