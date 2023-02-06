@@ -132,4 +132,6 @@ These Terms of Use and any policies or operating rules posted by us on the websi
 People may get in contact through e-mail at bella.moonaria@gmail.com.
 Other ways of support may be provided but aren't guaranteed.
 
+These terms of use were created using [Termly's Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/).
+
 # Privacy Policy
