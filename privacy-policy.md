@@ -1,37 +1,28 @@
 # Privacy Policy
 
-The use of this application ("Moon Slowmode", "Bot") in a server requires the collection of some specific user data ("Data").
-The Data collected includes, but is not limited to, Discord user ID values.
+The use of this application ("Moon Slowmode", "Bot") in a server requires the collection of some specific user data ("Data").  
 Use of the Bot is considered an agreement to the terms of this Policy as well as our [Terms of Service](https://github.com/BellaMoonaria/Moon-Development/blob/main/terms-of-service.md).
 
 ## Usage of Data
 
-The Bot may use stored data, as defined below, for different features including but not limited to:
+The Bot may use stored Data, as defined below, for different features including but not limited to:
 - Command handling
 
-### Necessary Data
-
-The following Data is not stored but needed for different features, including but not limited to Command execution.
-- Server ID
-- Channel ID and ratelimit of requested channel
-
-No usage of data outside of the aformentioned cases will happen.
+No usage of Data outside of the aformentioned cases will happen.
 Data is and will not be shared or sold with any Third-Party website or service.
 
 ## Storage of Data
 
-The Bot does not store any personal data.
+The Bot does not store any Data.
 
 ### Updating Data
 
-The data may be updated when using specific commands.
-Updating data will require the input of an end user, and data that can be seen as sensitive, such as content of a message, may need to be stored when using certain commands.
+The Data may be updated when using specific commands, which require the input of an end user.  
+No other actions may update the stored Data at any given time.
 
-No other actions may update the stored information at any given time.
+### Temporary Storage of Data
 
-## Temporarily stored Information
-
-The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time.
+The Bot may keep the stored Data in an internal cacheing mechanic for a certain amount of time.
 After this time period, the cached information will be dropped and only be re-added when required.
 
 Data may be dropped from cache through actions such as removing the Bot from a server.
@@ -43,21 +34,22 @@ You may submit a request through e-mail at bella.moonaria@gmail.com.
 
 ## Removal of Data
 
-### Automatic removal
+### Automatic Removal
 
 Stored Data can be removed automatically through means of removing the Bot from a server by either kicking or banning.
 
-The automatic removal of data has certain limitations that we cannot fix or avoid.
+The automatic removal of Data has certain limitations that we cannot fix or avoid.
 Limitations include, but aren't limited to, downtime of the Bot due to maintenance or technical issues at our hosting provider or Discord Inc.
 
 In such events, you can request [manual removal](#manual-removal).
 
-### Manual removal
+### Manual Removal
 
-Manual removal of the data can be requested through e-mail at bella.moonaria@gmail.com.
-For security reasons, we will ask you to provide us with proof of ownership of the server that you wish the data to be removed of.
-Only a server owner may request manual removal of data.
-Requesting manual data removal will result in the Bot being removed from the server, if still present on it.
+Manual removal of the Data can be requested through e-mail at bella.moonaria@gmail.com.  
+For security reasons, we will ask you to provide us with proof of ownership of the account or server that you wish the Data to be removed of.
+
+Only a server owner may request manual removal of server related Data.
+Requesting manual Data removal will result in Removal of the Bot from the server, if still present on it.
 
 ## Underage Users
 
