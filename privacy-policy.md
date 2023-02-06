@@ -9,7 +9,7 @@ The Bot may use stored Data, as defined below, for different features including 
 - Command handling
 
 No usage of Data outside of the aforementioned cases will happen.
-Data is and will not be shared or sold with any Third-Party website or service.
+Data is and will not be shared with or sold to any Third-Party website or service.
 
 ## Storage of Data
 
