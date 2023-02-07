@@ -81,7 +81,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Bot for violat
 
 ## Privacy Policy
 
-We care about data privacy and security. Please review our Privacy Policy: XXXXX. By using the Bot, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Bot is hosted in Germany. If you access the Bot from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Germany, then through your continued use of the Bot, you are transferring your data to Germany, and you agree to have your data transferred to and processed in Germany. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Bot as quickly as is reasonably practical.
+We care about data privacy and security. Please review [each Bot's Privacy Policy](https://github.com/BellaMoonaria/Moon-Development/tree/main/Privacy-Policies) individually. By using the Bot, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Bot is hosted in Germany. If you access the Bot from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Germany, then through your continued use of the Bot, you are transferring your data to Germany, and you agree to have your data transferred to and processed in Germany. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Bot as quickly as is reasonably practical.
 
 ## Term and Termination
 
@@ -133,5 +133,3 @@ People may get in contact through e-mail at bella.moonaria@gmail.com.
 Other ways of support may be provided but aren't guaranteed.
 
 These terms of use were created using [Termly's Terms and Conditions Generator](https://termly.io/products/terms-and-conditions-generator/).
-
-# Privacy Policy
