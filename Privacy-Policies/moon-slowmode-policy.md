@@ -13,7 +13,7 @@ Data is and will not be shared with or sold to any Third-Party website or servic
 
 ## Storage of Data
 
-The Bot does not store any Data.
+The Bot does not store any personal Data.
 
 ### Updating Data
 
